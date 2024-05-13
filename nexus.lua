@@ -105,7 +105,7 @@ VerifyButton.MouseButton1Down:connect(function()
         wait(7)
 
         GUI.Parent = nil
- loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexushubisbestscript/NEXUSHUB/main/aicungghettoi.lua"))()
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Nexushubisbestscript/Khongaithichtoi/main/hi.txt"))()
     end
 end)
 
