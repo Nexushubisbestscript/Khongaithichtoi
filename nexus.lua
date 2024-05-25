@@ -2,7 +2,7 @@
 -- around line 112 is where you put your script
 
 
-local suskey = "811085213"
+local suskey = "985646370"
 
 
 local GUI = Instance.new("ScreenGui")
@@ -124,7 +124,7 @@ GetKey.TextColor3 = Color3.fromRGB(255, 255, 255)
 GetKey.TextSize = 42.000
 GetKey.TextWrapped = true
 GetKey.MouseButton1Down:connect(function()
-    setclipboard("https://dilink.net/notes/P6mv")
+    setclipboard("https://dilink.net/notes/b995")
     
     game.StarterGui:SetCore("SendNotification", {Title = "key copied", Text = "the key was copied into your clipboard", Icon = "", Duration = 5})
 end)
